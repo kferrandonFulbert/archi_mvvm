@@ -1,0 +1,10 @@
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\Kevin\source\repos\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\Kevin\source\repos\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.pdb
+C:\Users\Kevin\source\repos\Contact\Contact\obj\Debug\Contact.Form1.resources
